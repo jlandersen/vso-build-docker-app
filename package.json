@@ -1,0 +1,10 @@
+{
+  "name": "vso-build-docker-app",
+  "version": "1.0.0",
+  "description": "Used to demonstrate building and publishing Docker images with VSO Build",
+  "main": "index.js",
+  "dependencies": {
+    "express": ""
+  },
+  "author": "Jeppe"
+}
